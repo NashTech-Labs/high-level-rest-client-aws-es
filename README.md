@@ -7,7 +7,6 @@ Steps to follow to run this application:
 - Open the terminal.
 - Clone the project ```git clone git@github.com:DivyaDua/high-level-rest-client.git```.
 - ```cd high-level-rest-client```.
-- Switch to branch ```aws-es-authentication```.
 - Execute ```sbt clean compile```.
 - Run the main class ```ElasticProcessor``` to execute CRUD operations.
 
